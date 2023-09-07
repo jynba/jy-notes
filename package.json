@@ -1,0 +1,29 @@
+{
+  "name": "daily-notes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "日常笔记记录（零零散散啥都记系列）",
+  "scripts": {
+    "build": "node scripts/generateReadme.js",
+    "prettier": "prettier --write \"README.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jynba/jy-notes.git"
+  },
+  "author": "jy <1239051474@qq.com>",
+  "bugs": {
+    "url": "https://github.com/jynba/jy-notes/issues"
+  },
+  "homepage": "https://github.com/jynba/jy-notes#readme",
+
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "@femm/prettier": "^1.0.1",
+    "fs-extra": "^11.1.0",
+    "octonode": "^0.10.2",
+    "prettier": "^2.8.2"
+  },
+  "prettier": "@femm/prettier"
+}
