@@ -1,4 +1,4 @@
-# daily-notes
+# jy-notes
 
 日常笔记记录（零零散散啥都记系列）
 
@@ -12,4 +12,4 @@
 
 1. 2023-09-07 —— [如何在 github 用 issue 写博客？](https://github.com/jynba/jy-notes/issues/2)
 
-2. 2023-09-07 —— [测试](https://github.com/jynba/jy-notes/issues/1)
+2. 2023-09-07 —— [当你远程仓库已经没有分支了，而你本地还显示对应的远程分支时怎么刷新？](https://github.com/jynba/jy-notes/issues/1)
