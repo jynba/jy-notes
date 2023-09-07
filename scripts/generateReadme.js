@@ -8,7 +8,7 @@ const REPO_URL = `${USERNAME}/${REPO_NAME}`
 const repo = client.repo(REPO_URL)
 const search = client.search()
 
-const MD_HEADER = `# daily-notes
+const MD_HEADER = `# jy-notes
 
 日常笔记记录（零零散散啥都记系列）
 
