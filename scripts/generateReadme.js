@@ -12,9 +12,9 @@ const MD_HEADER = `# daily-notes
 
 日常笔记记录（零零散散啥都记系列）
 
-> 为了更好的浏览体验，已同步到[jy的温馨小窝](https://jynba.github.io/GRIT/)
+> 更多博客内容可查看 [jy的小木屋(旧)](https://jynba.github.io) 或 [jy的温馨小窝(新)](https://jynba.github.io/GRIT/)
 >
-> [新写一篇小笔记](https://github.com/maomao1996/daily-notes/issues/new)
+> [新写一篇小笔记](https://github.com/jynba/jy-notes/issues/new)
 `
 
 const MD_FOOTER = `\n`
